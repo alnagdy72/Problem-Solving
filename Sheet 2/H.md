@@ -1,6 +1,6 @@
 <h1 style="text-align:center;background:yellow;color:black" > Problem H </h1>
 
-> ## <center> Description problem </center>
+<h2> Description problem  </h2>
 >
 > * H. One Prime
 > * time limit per test3 seconds
