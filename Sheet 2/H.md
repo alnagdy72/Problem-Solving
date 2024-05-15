@@ -1,7 +1,8 @@
-# <center> Problem H </center>
-
-## <center> Description problem </center>
->>
+> # <center> <mark> Problem H </mark> </center>
+>
+>
+> ## <center> Description problem </center>
+>
 > * H. One Prime
 > * time limit per test3 seconds
 > * memory limit per test64 megabytes
@@ -9,7 +10,7 @@
 > * output standard output
 > * Given a number X. Determine if the number is prime or not
 >>
-## <center> Note </center>
+> ## <center> Note </center>
 > * A prime number is a number that is greater than 1 and has only two factors which are 1 and itself.
 > * In other words : prime number divisible only by 1 and itself.
 > * Be careful that 1 is not prime .
@@ -24,7 +25,7 @@
 > * print "YES" if the number is prime and "NO" otherwise.
 > ---
 >>
-## <center>Example </center>
+> ## <center>Example </center>
 >>
 > * input
 > * 7
@@ -37,7 +38,7 @@
 > * NO
 > ---
 > 
-## <center> Note </center>
+> ## <center> Note </center>
 > * First Example :
 > 
 > * 7 is prime because it is not divisible by 2,3,4,5,6, and only divisible by 1 and itself, so the answer is YES.
@@ -49,7 +50,7 @@
 >
 > --- 
 
-## <center> My Solve </center>
+> ## <center> My Solve </center>
 ```
 #include <iostream>
 using namespace std ; 
@@ -71,7 +72,7 @@ int main () {
 }
 
 ```
-
+> 
 > // Wrong Answer on Test 1
-
+>
 > ---
