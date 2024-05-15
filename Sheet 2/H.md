@@ -16,8 +16,35 @@
 > * Be careful that 1 is not prime .
 > * The first few prime numbers are
 >
-> * ![image](https://espresso.codeforces.com/cffbbc0a8003151adbd88c8cc77237c56ccb224a.png)
+>    ![image](https://espresso.codeforces.com/cffbbc0a8003151adbd88c8cc77237c56ccb224a.png)
 >
+> * Input
+> * Only one line containing a number X (2 ≤ X ≤ 105).
+>
+> * Output
+> * print "YES" if the number is prime and "NO" otherwise.
 > ---
-
+> 
+> * input
+> * 7
+> * output
+> * YES
+> ---
+> * input
+> * 15
+> * output
+> * NO
+> ---
+> 
+> * Note
+> * First Example :
+> 
+> * 7 is prime because it is not divisible by 2,3,4,5,6, and only divisible by 1 and itself, so the answer is YES.
+> 
+> * Second Example :
+> 
+> * 15 not is prime because it is divisible by 3 ,5, so the answer is NO.
+> 
+>
+> --- 
 
