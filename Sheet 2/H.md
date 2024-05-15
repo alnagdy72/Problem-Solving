@@ -1,6 +1,5 @@
-> # <center> <mark> Problem H </mark> </center>
->
->
+<h1 style="text-align:center;background:yellow;color:black" > Problem H </h1>
+
 > ## <center> Description problem </center>
 >
 > * H. One Prime
