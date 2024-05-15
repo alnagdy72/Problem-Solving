@@ -8,7 +8,7 @@
 > *  input standard input
 > * output standard output
 > * Given a number X. Determine if the number is prime or not
->>
+
 <h2> Note </h2>
 
 > * A prime number is a number that is greater than 1 and has only two factors which are 1 and itself.
@@ -16,7 +16,7 @@
 > * Be careful that 1 is not prime .
 > * The first few prime numbers are
 >
->    ![image](https://espresso.codeforces.com/cffbbc0a8003151adbd88c8cc77237c56ccb224a.png)
+>   ![image](https://espresso.codeforces.com/cffbbc0a8003151adbd88c8cc77237c56ccb224a.png)
 >
 > * Input
 > * Only one line containing a number X (2 ≤ X ≤ 105).
@@ -24,10 +24,10 @@
 > * Output
 > * print "YES" if the number is prime and "NO" otherwise.
 > ---
->>
-> ## <center>Example </center>
->>
-> * input
+
+<h2> Example </h2>
+
+> *  input
 > * 7
 > * output
 > * YES
@@ -38,7 +38,10 @@
 > * NO
 > ---
 > 
-> ## <center> Note </center>
+
+<h2> Note </h2>
+
+
 > * First Example :
 > 
 > * 7 is prime because it is not divisible by 2,3,4,5,6, and only divisible by 1 and itself, so the answer is YES.
@@ -50,7 +53,9 @@
 >
 > --- 
 
-> ## <center> My Solve </center>
+<h2> My Solve </h2>
+
+
 ```
 #include <iostream>
 using namespace std ; 
