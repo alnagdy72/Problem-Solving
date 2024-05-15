@@ -1,6 +1,5 @@
 <h1 style="text-align:center;background:yellow;color:black" > Problem H </h1>
 
----
 <h2> Description problem  </h2>
 
 > * H. One Prime
@@ -9,7 +8,6 @@
 > *  input standard input
 > * output standard output
 > * Given a number X. Determine if the number is prime or not
----
 
 <h2> Note </h2>
 
@@ -19,13 +17,10 @@
 > * The first few prime numbers are
 >
 >   ![image](https://espresso.codeforces.com/cffbbc0a8003151adbd88c8cc77237c56ccb224a.png)
->
 > * Input
 > * Only one line containing a number X (2 ≤ X ≤ 105).
->
 > * Output
 > * print "YES" if the number is prime and "NO" otherwise.
----
 
 <h2> Example </h2>
 
@@ -38,7 +33,6 @@
 > * 15
 > * output
 > * NO
---- 
 
 <h2> Note </h2>
 
@@ -49,7 +43,6 @@
 > * Second Example :
 > 
 > * 15 not is prime because it is divisible by 3 ,5, so the answer is NO.
---- 
 
 <h2> My Solve </h2>
 
@@ -74,6 +67,7 @@ int main () {
 }
 
 ```
+>---
 <h5>  Wrong Answer on Test 1 </h5>
 
 > ---
