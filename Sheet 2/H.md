@@ -1,7 +1,7 @@
 <h1 style="text-align:center;background:yellow;color:black" > Problem H </h1>
 
 <h2> Description problem  </h2>
->
+
 > * H. One Prime
 > * time limit per test3 seconds
 > * memory limit per test64 megabytes
@@ -9,7 +9,8 @@
 > * output standard output
 > * Given a number X. Determine if the number is prime or not
 >>
-> ## <center> Note </center>
+<h2> Note </h2>
+
 > * A prime number is a number that is greater than 1 and has only two factors which are 1 and itself.
 > * In other words : prime number divisible only by 1 and itself.
 > * Be careful that 1 is not prime .
