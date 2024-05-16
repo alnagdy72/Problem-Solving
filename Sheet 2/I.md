@@ -27,3 +27,18 @@
 > 
 >* Output
 >* Print the answer required above.
+
+<h2> Examples <h2>
+
+
+>* input
+>* 12121
+>* output
+>* 12121
+>* YES
+> --- 
+>* input
+>* 160
+>* output
+>* 61
+>* NO
