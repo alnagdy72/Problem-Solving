@@ -49,7 +49,7 @@
 
 <h2>Final Solve </h2>
 
-```
+``` c++
 #include <iostream>
 using namespace std ;
 
@@ -81,13 +81,14 @@ if(p==0){
 }
 
 
-/*
+ /*
  for(int i =0 ; i<num.length() ; i++){
   for(int j = num.length() ; j>=0 ; j--){
         
          }
     }
 */
+
 
 
     return 0 ; 

@@ -46,7 +46,7 @@
 
 <h2> My Solve </h2>
 
-```
+``` c++
 #include <iostream>
 using namespace std ; 
 
